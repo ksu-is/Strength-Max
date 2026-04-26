@@ -73,12 +73,3 @@ if goal_choice == "1":
     print("\nWorkout Plan:")
     for ex in exercises:
         print(f"- {ex}: 2 sets to failure (increase weight on second set)")
-
-elif goal_choice == "2":
-    print("\nLose weight program coming soon...")
-
-elif goal_choice == "3":
-    print("\nBody recomp program coming soon...")
-
-else:
-    print("\nInvalid choice. Restart program.")

@@ -10,4 +10,8 @@
 - [x] Begin developing code
 - [x] Create workout reps and sets for all upper body parts and lower parts for build muscle category
 - [x] List Goal Options
-
+## Sprint 3
+- [] Continue working on code
+- [] Add Splash screen
+- [] Create powerpoint
+- [] Work on presentation

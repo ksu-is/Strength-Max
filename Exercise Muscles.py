@@ -1,4 +1,4 @@
-# Step 1: Goal
+# Step 1: Code that allows them to choose their goal for their body 
 print("\nWhat is your fitness goal?")
 print("1. Build muscle")
 print("2. Lose weight")
@@ -9,7 +9,7 @@ goal_choice = input("\nEnter 1, 2, or 3: ")
 if goal_choice == "1":
     goal = "Build muscle"
 
-    # Step 2: Muscle group
+    # Step 2: Muscle group that they will be choosing to work on
     print("\nSelect a muscle group:")
     print("1. Chest")
     print("2. Back")
@@ -19,7 +19,7 @@ if goal_choice == "1":
     print("6. Legs")
 
     muscle_choice = input("\nEnter 1–6: ")
-
+# Exercise muscle choices for the chest
     if muscle_choice == "1":
         muscle = "Chest"
         exercises = [
@@ -28,7 +28,7 @@ if goal_choice == "1":
             "Incline Press",
             "Dumbbell Incline Press"
         ]
-
+# Exercise choices for the back
     elif muscle_choice == "2":
         muscle = "Back"
         exercises = [
@@ -36,7 +36,7 @@ if goal_choice == "1":
             "Cable Rows",
             "Single Arm Pulldown"
         ]
-
+# Exercise choices for the biceps
     elif muscle_choice == "3":
         muscle = "Biceps"
         exercises = [
@@ -44,7 +44,7 @@ if goal_choice == "1":
             "Preacher Curls",
             "Hammer Curls"
         ]
-
+# Exercise Choices for triceps
     elif muscle_choice == "4":
         muscle = "Triceps"
         exercises = [
@@ -52,7 +52,7 @@ if goal_choice == "1":
             "Dips",
             "Overhead Tricep Extension"
         ]
-
+# Applied Exercise choices for shoulders
     elif muscle_choice == "5":
         muscle = "Shoulders"
         exercises = [
@@ -71,7 +71,7 @@ if goal_choice == "1":
         print("3. Glutes")
 
         leg_choice = input("\nEnter 1–3: ")
-
+# Applied exercise choices for legs
         if leg_choice == "1":
             muscle = "Quads"
             exercises = [

@@ -10,5 +10,5 @@
 - [x] Begin developing code
 - [ ] Create workouts
 - [ ] Code and insert different muscle pathways
-- [ ] Code exercise instructions
-- [ ] Add repitition and sets along with weights
+- [ ] List Goal Options
+

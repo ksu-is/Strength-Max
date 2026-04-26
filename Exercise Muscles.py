@@ -1,5 +1,3 @@
-print("Welcome to Strength Max!")
-
 # Step 1: Goal
 print("\nWhat is your fitness goal?")
 print("1. Build muscle")

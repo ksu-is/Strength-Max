@@ -8,7 +8,6 @@
 ## Sprint 2 
 - [x] Import necessary libraries
 - [x] Begin developing code
-- [ ] Create workouts reps and sets for all upper body parts
-- [ ] Code and insert different muscle pathways 
+- [ ] Create workout reps and sets for all upper body parts and lower parts for build muscle category
 - [ ] List Goal Options
 

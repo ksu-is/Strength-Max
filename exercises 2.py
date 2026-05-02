@@ -63,3 +63,4 @@ elif goal_choice == "2":
     print("\nWorkout Plan:")
     for ex in exercises:
         print(f"- {ex}: {sets_reps}")
+        #Created lose weight workouts that involve calisthenics, which burn more calories than normal workouts.
